@@ -1,0 +1,14 @@
+# Parameters
+targetStr = "3-Completed"
+myPath = "C:\\users\\1347409\\Documents\\Dropbox\\Projects\\email\\Outlook\\"
+exclude = "ATT00"
+
+# emails
+emailSubFolder = "emails\\"
+emailAttachmentSubFolder = "attachments\\"
+emailSaveExtension = ".doc"
+
+# calendar
+calendarSubFolder = "calendar\\"
+calendarAttachmentSubFolder = "attachments\\"
+calendarSaveExtension = ".doc"
